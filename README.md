@@ -1,2 +1,2 @@
 # Codility
-Practice exercise 
+This is a repository purely used to maintain my practice for codility excercises.
